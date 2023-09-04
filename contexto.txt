@@ -1,0 +1,20 @@
+Hola profesor/a! 
+Queria agregar una pequeña explicacion de lo que hice en esta primer pre- entrega, como me senti haciendolo y lo q queria realizar o la idea que tengo 
+(o quiero je) sobre mi proyecto final.
+
+Mi idea principal esta inspirada en uno de los locales de mi papa (que es donde trabajo). En uno de esos cuenta con una cafeteria/restaurant llamado 
+"El bodegon de homero!" y me gustaria llegar a realizar como un "e-commerce" donde esten los platos, bebidas y postres de esta tienda, que se puedan agregar al carrito
+todo lo que quieras, que haya posibilidad de descuentos x medio de pago y luego pasar a pagarlo. Algo como pedidosYa, pero que sea en aplicacion web.
+
+En esta entrega realice un simple sistema de pedido de promociones, que van desde la Promocion1 hasta la Promocion4, donde podes seleccionar la cantidad de promociones
+que quieras, ya que te pregunta si queres agregar mas o salir al seleccionar una promocion. Las que selecciones se van acumulando en un contador que al finalizar la 
+compra y salir del menu de promociones te refleja el precio total de las promociones seleccionadas + el envio, claro. Tambien en caso de decidir que "no quieres nada", 
+puedes salir del menu donde se encuentran las promociones (o de la instancia de la compra de donde estes) y te saldra un mensaje de que no seleccionaste nada. 
+Se usaron variables, condicionales, ciclos y funcion para realizar este trabajo.
+
+Mi experiencia al realizar esta primer pre-entrega:
+En resumidas cuentas, fue pelearme constantemente con el codigo, je. Fueron horas y horas de buscar info, preguntar, re-ver las clases para ver como eran algunas cosas.
+La verdad que fue algo que me gusto hacer y esas horas y horas no las senti como lo peor del mundo, al contrario. (obviamente) hubo frustraciones en el medio al ver que 
+el codigo no funcionaba, pero se logro. Seguramente tengo detalles o algo mal asi que espero mis correcciones. Muchas gracias profesor/a.
+
+-Brandon Peralta
